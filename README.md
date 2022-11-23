@@ -1,41 +1,42 @@
-# Visualisation project
+# Bank customers loyalty (visualisation)
 
-### Оглавление 
-[1. Описание проекта](https://github.com/IgorAbalakin/Churn_project/blob/main/README.md#Описание-проекта) 
+### Content 
+[1. Project description](https://github.com/IgorAbalakin/Churn_project/blob/main/README.md#Project-description) 
 
-[2. Список вопросов от банка](https://github.com/IgorAbalakin/Churn_project/blob/main/README.md#Исследование-данных-анализ-признаков) 
+[2. Bank questionnaire](https://github.com/IgorAbalakin/Churn_project/blob/main/README.md#Bank-questionnaire) 
  
 ____
-### Описание проекта 
-Банк обращается за помощью: он хочет разработать кампанию лояльности по удержанию клиентов, но для этого ему необходимо выяснить основные причины оттока клиентов. Иными словами, нужно установить, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
+### Project description 
 
-После разведывательного анализа, с целью выявления наиболее важных признаков оттока, банк сможет построить модель машинного обучения, которая будет прогнозировать уход клиента. 
+The bank is asking for help: it wants to develop a loyalty campaign to retain customers, but for this it needs to find out the main reasons for the outflow of customers. In other words, it is necessary to establish how the departed customers differ from the loyal ones and how the various signs that define customers are related to each other.
+
+After an intelligence analysis, in order to identify the most important signs of outflow, the bank will be able to build a machine learning model that will predict the client's departure. 
 
  
-:arrow_up: [к оглавлению](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Оглавление)
+:arrow_up: [up to content](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Content)
 
  ____
-### Список вопросов от банка
+### Bank questionnaire
 
-1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.
+1. What is the ratio of left and loyal customers? Show it on the graph and give a comment on the ratio.
 
-2. Постройте график, показывающий распределение баланса пользователей, у которых на счету больше 2 500 долларов. 
+2. Create a graph showing the balance distribution of users who have more than $2,500 in their account. 
 
-3. Посмотрите на распределение баланса клиента в разрезе признака оттока. Как различаются суммы на накопительном счёте ушедших и лояльных клиентов? 
+3. Look at the distribution of the client's balance in the context of the outflow feature. How do the amounts on the savings account of left and loyal customers differ? 
 
-4. Посмотрите на распределение возраста в разрезе признака оттока. На какую возрастную категорию клиентов стоит обратить внимание банку?
+4. Look at the distribution of age in the context of the outflow feature. What age category of customers should the bank pay attention to?
 
-5. Постройте график, который показывает взаимосвязь кредитного рейтинга клиента и его предполагаемой зарплаты. Добавьте расцветку по признаку оттока клиентов. Какова взаимосвязь между признаками?
+5. Create a graph that shows the relationship between the client's credit rating and his estimated salary. Add a coloring based on customer churn. What is the relationship between the features?
 
-6. Кто чаще уходит, мужчины или женщины?
+6. Who leaves more often, men or women?
 
-7. Как отток клиентов зависит от числа приобретённых у банка услуг?
+7. How does the outflow of customers depend on the number of services purchased from the bank?
 
-8. Как влияет наличие статуса активного клиента на отток клиентов? 
+8. How does the presence of an active client status affect the outflow of clients? 
 
-9. В какой стране доля ушедших клиентов больше? Постройте тепловую картограмму, которая покажет это соотношение на карте мира. 
+9. In which country is the share of departed customers greater? Create a heat cartogram that will show this ratio on the world map. 
 
-10. Постройте сводную таблицу, строками которой являются категории кредитного рейтинга (CreditScoreCat), а столбцами — количество лет, в течение которых клиент пользуется услугами банка (Tenure). В ячейках сводной таблицы должна находиться доля ушедших пользователей.
-На основе полученной сводной таблицы постройте тепловую карту с аннотацией. Найдите на тепловой карте категории клиентов, которые уходят чаще всего.
+10. Make a summary table, the rows of which are the categories of credit rating (CreditScoreCat), and the columns are the number of years during which the client uses the bank's services (Tenure). The cells of the pivot table should contain the proportion of users who have left.
+Based on the resulting summary table, build a heat map with an annotation. Find on the heat map the categories of customers who leave most often.
 
-:arrow_up: [к оглавлению](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Оглавление)
+:arrow_up: [up to content](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Content)
