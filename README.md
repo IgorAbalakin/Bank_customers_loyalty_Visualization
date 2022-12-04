@@ -1,9 +1,9 @@
 # Bank customers loyalty (visualisation)
 
 ### Content 
-[1. Project description](https://github.com/IgorAbalakin/Churn_project/blob/main/README.md#Project-description) 
+[1. Project description](https://github.com/IgorAbalakin/Bank_customers_loyalty._Visualisation/blob/main/README.md#Project-description) 
 
-[2. Bank questionnaire](https://github.com/IgorAbalakin/Churn_project/blob/main/README.md#Bank-questionnaire) 
+[2. Bank questionnaire](https://github.com/IgorAbalakin/Bank_customers_loyalty._Visualisation/blob/main/README.md#Bank-questionnaire) 
  
 ____
 ### Project description 
@@ -13,7 +13,7 @@ The bank is asking for help: it wants to develop a loyalty campaign to retain cu
 After an intelligence analysis, in order to identify the most important signs of outflow, the bank will be able to build a machine learning model that will predict the client's departure. 
 
  
-:arrow_up: [up to content](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Content)
+:arrow_up: [up to content](https://github.com/IgorAbalakin/Bank_customers_loyalty._Visualisation/blob/main/README.md#Content)
 
  ____
 ### Bank questionnaire
@@ -39,4 +39,4 @@ After an intelligence analysis, in order to identify the most important signs of
 10. Make a summary table, the rows of which are the categories of credit rating (CreditScoreCat), and the columns are the number of years during which the client uses the bank's services (Tenure). The cells of the pivot table should contain the proportion of users who have left.
 Based on the resulting summary table, build a heat map with an annotation. Find on the heat map the categories of customers who leave most often.
 
-:arrow_up: [up to content](https://github.com/IgorAbalakin/Booking_data_project/blob/main/README.md#Content)
+:arrow_up: [up to content](https://github.com/IgorAbalakin/Bank_customers_loyalty._Visualisation/blob/main/README.md#Content)
