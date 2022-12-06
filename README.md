@@ -1,4 +1,4 @@
-# Bank customers loyalty (Visualisation)
+# Bank customers loyalty (Visualization)
 
 ### Content 
 [1. Project description](https://github.com/IgorAbalakin/Bank_customers_loyalty_Visualisation/blob/main/README.md#Project-description) 
